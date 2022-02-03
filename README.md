@@ -2,7 +2,7 @@
 - 👀 I’m interested in computing
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me do nuthin
+- 📫 How to reach me go to my github
 
 <!---
 robert391/robert391 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
